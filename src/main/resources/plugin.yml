@@ -1,0 +1,4 @@
+name: spigot-template
+version: '${project.version}'
+main: com.yecraft.spigottemplate.Spigot_template
+api-version: 1.18
